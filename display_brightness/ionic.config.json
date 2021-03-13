@@ -1,0 +1,7 @@
+{
+  "name": "display_brightness",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
