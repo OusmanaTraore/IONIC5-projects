@@ -1,0 +1,10 @@
+{
+  "name": "display_brightness",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
